@@ -1,0 +1,10 @@
+{
+    "require": {
+        "pocketmine/pocketmine-mp": "5.15.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "luissdeep\\hcfaction": "./src"
+        }
+    }
+}

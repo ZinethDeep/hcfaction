@@ -1,0 +1,7 @@
+---
+name: hcfaction
+version: 0.0.1
+main: luissdeep\hcfaction\HCFLoader
+api: 5.15.0
+src-namespace-prefix: luissdeep\hcfaction
+...
