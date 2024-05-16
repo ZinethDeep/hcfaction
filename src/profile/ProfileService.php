@@ -31,4 +31,5 @@ class ProfileService {
         }
         return $this->repository;
     }
+    
 }
